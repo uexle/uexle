@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/uexle/uexle/blob/main/banner.png" height="300px">
+  <img align="center" src="https://github.com/uexle/uexle/blob/main/banner.png" height="400px">
 </p>
 <p align="center">
   <a href="https://uexle.github.io" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&logo=github"></a>
